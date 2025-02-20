@@ -1,6 +1,6 @@
 # Go template
 
-[![build-test](https://github.com/veeso-dev/go-template/actions/workflows/build-test.yml/badge.svg)](https://github.com/veeso-dev/go-template/actions/workflows/build-test.yml)
+[![build-test](https://github.com/veeso-dev/go-template/actions/workflows/build_test.yaml/badge.svg)](https://github.com/veeso-dev/go-template/actions/workflows/build_test.yaml)
 [![license-mit](https://img.shields.io/badge/License-MIT-teal.svg)](https://opensource.org/license/mit/)
 [![Conventional Commits](https://img.shields.io/badge/Conventional%20Commits-1.0.0-%23FE5196?logo=conventionalcommits&logoColor=white)](https://conventionalcommits.org)
 
